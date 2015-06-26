@@ -3,10 +3,12 @@ inherit perl
 
 NAME="perl-Tk-ColoredButton"
 VERSION=1.05
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl/Tk colored button widget"
 DESCRIPTION="Tk::ColoredButton is a Perl module for generating background
 gradient color in a button widget."
+
+ARCH=noarch
 
 perl_Tk_ColoredButton_REQUIRES="perl-Tk-Canvas-GradientColor"
