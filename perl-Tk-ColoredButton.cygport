@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Tk-ColoredButton"
 VERSION=1.05
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl/Tk colored button widget"
 DESCRIPTION="Tk::ColoredButton is a Perl module for generating background
